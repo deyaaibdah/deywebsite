@@ -1,2 +1,2 @@
-FROM deyibdah / apacheweb
+FROM deyibdah/apacheweb
 ADD . /var/www/html
